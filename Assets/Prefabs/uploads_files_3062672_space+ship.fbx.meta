@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 5f760e95ac82c6f40a56af30f2debeb0
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: uploads_files_3062672_space+ship(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0, y: 33.7931, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 251.5692, y: 251.5692, z: 251.5692}
+    - name: Cube.001
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.0576088, y: 35.687145, z: -9.240032}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 177.66754, y: 1096.2024, z: 52.705074}
+    - name: Cube.002
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.11763668, y: 36.354385, z: -0.99991184}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 85.78765, y: 137.96356, z: 20.648603}
+    - name: Cube.003
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.16239919, y: 36.895283, z: -3.8200307}
+      rotation: {x: -0.7329618, y: 5.8499644e-18, z: -5.8499665e-18, w: 0.68026984}
+      scale: {x: 135.99689, y: 289.50122, z: 14.992108}
+    - name: Cube.004
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.13489945, y: 38.19186, z: -18.660347}
+      rotation: {x: -0.72405124, y: 3.808604e-18, z: -3.808601e-18, w: 0.6897462}
+      scale: {x: 131.6984, y: 194.24416, z: 112.68376}
+    - name: Cube.005
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 1.5493544e-15, y: 36.095184, z: -20.505459}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 292.67044, y: 77.34551, z: 101.940895}
+    - name: Cube.006
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.12754196, y: 36.07406, z: -26.674934}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 302.31543, y: 622.9428, z: 108.27042}
+    - name: Cube.007
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.083485305, y: 38.001526, z: -31.084589}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 149.44997, y: 518.4451, z: 105.31615}
+    - name: Cube.008
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.20114923, y: 39.466774, z: -37.698917}
+      rotation: {x: 0.000000030908623, y: 0.7071068, z: 0.7071067, w: 0.000000030908616}
+      scale: {x: -275.51437, y: -406.42563, z: -38.442127}
+    - name: Cube.009
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -2.7699504, y: 34.368008, z: -0.9218754}
+      rotation: {x: -0.70379186, y: 0.06838931, z: 0.06838933, w: 0.7037918}
+      scale: {x: 16.059086, y: 102.24117, z: 105.58145}
+    - name: Cylinder
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -3.140098, y: 34.311794, z: -0.8220961}
+      rotation: {x: -0.44873777, y: -0.4449707, z: 0.5464745, w: 0.5495463}
+      scale: {x: 23.642769, y: 24.165623, z: 33.93554}
+    - name: Cube.010
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -4.221815, y: 34.29788, z: -0.5545901}
+      rotation: {x: -0.70379186, y: 0.06838933, z: 0.06838933, w: 0.7037918}
+      scale: {x: 82.89786, y: 102.47159, z: 86.324905}
+    - name: Cylinder.002
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -3.6487148, y: 34.168133, z: 0.3961468}
+      rotation: {x: 0.004262305, y: 0.10695286, z: -0.00045849985, w: 0.9942549}
+      scale: {x: 55.76928, y: 55.769287, z: 55.769283}
+    - name: Cube.013
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -5.089887, y: 34.92605, z: -6.929806}
+      rotation: {x: -0.6929598, y: 0.1407369, z: 0.14073691, w: 0.69295967}
+      scale: {x: 58.921364, y: 209.33629, z: 92.23711}
+    - name: Cube.014
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 5.0577216, y: 34.928337, z: -6.648351}
+      rotation: {x: 0.6940157, y: -0.13543354, z: 0.13543355, w: 0.6940157}
+      scale: {x: -58.92136, y: -209.33629, z: -92.23711}
+    - name: Cube.015
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -7.0342064, y: 34.215954, z: -1.8841386}
+      rotation: {x: -0.701269, y: 0.090674914, z: -0.09067489, w: 0.7012689}
+      scale: {x: 100, y: 100, z: 37.982548}
+    - name: Cube.017
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -12.682907, y: 31.202953, z: -16.369581}
+      rotation: {x: 0.000000030908623, y: 0.7071068, z: 0.7071067, w: 0.000000030908616}
+      scale: {x: -477.17395, y: -191.76521, z: -268.93228}
+    - name: Cube.018
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 13.085184, y: 31.028898, z: -16.00785}
+      rotation: {x: 0.000000030908623, y: 0.7071068, z: -0.7071067, w: -0.000000030908616}
+      scale: {x: 477.17395, y: 191.76521, z: 268.93228}
+    - name: Cube.019
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.36921126, y: 40.95836, z: -39.317688}
+      rotation: {x: -0.760795, y: 1.2412598e-17, z: -1.2412592e-17, w: 0.6489923}
+      scale: {x: 168.36734, y: 239.53528, z: 109.82648}
+    - name: Cube.016
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 8.077552, y: 34.215954, z: -1.33321}
+      rotation: {x: 0.701269, y: 0.09067491, z: 0.09067492, w: 0.7012689}
+      scale: {x: -100.00001, y: -100, z: -37.982548}
+    - name: Cube.020
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 0.20673679, y: 38.13222, z: -40.235977}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 346.7486, y: 446.3673, z: 107.62565}
+    - name: Cube.011
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 2.7806304, y: 34.247643, z: -1.0021193}
+      rotation: {x: 0.70379186, y: -0.06838931, z: 0.06838933, w: 0.7037918}
+      scale: {x: -16.059086, y: -102.24117, z: -105.58145}
+    - name: Cylinder.001
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 3.150778, y: 34.19143, z: -0.90233994}
+      rotation: {x: 0.54954636, y: -0.5464745, z: -0.44497064, w: 0.4487377}
+      scale: {x: -23.642769, y: -24.165623, z: -33.93554}
+    - name: Cube.012
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 4.2324944, y: 34.177517, z: -0.63483393}
+      rotation: {x: 0.70379186, y: -0.06838933, z: 0.06838933, w: 0.7037918}
+      scale: {x: -82.89786, y: -102.47159, z: -86.324905}
+    - name: Cylinder.003
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 3.6593945, y: 34.047768, z: 0.31590292}
+      rotation: {x: 0.9942548, y: 0.00045850556, z: 0.10695285, w: -0.0042623575}
+      scale: {x: -55.76928, y: -55.769287, z: -55.769283}
+    - name: Plane
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 0.35884094, y: 25.699917, z: 0.6092016}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 13776.079, y: 13776.079, z: 13776.079}
+    - name: Camera
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -44.21499, y: 64.04175, z: 85.19827}
+      rotation: {x: -0.025893962, y: -0.97254723, z: 0.13321716, w: -0.18903603}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: Area.005
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -26.534641, y: 45.518627, z: 2.5409236}
+      rotation: {x: 0.6199698, y: 0.60622096, z: 0.25322863, w: 0.4289626}
+      scale: {x: 1961.3818, y: 1961.3813, z: 1961.3812}
+    - name: Area
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: 28.523859, y: 46.539257, z: 0.7726995}
+      rotation: {x: 0.92619485, y: 0.10996802, z: -0.35921827, w: 0.03213105}
+      scale: {x: 2135.765, y: 2135.765, z: 2135.7646}
+    - name: Area.009
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -9.986311, y: 44.460335, z: -66.29793}
+      rotation: {x: -0.07014662, y: 0.06161216, z: -0.99460566, w: -0.045199726}
+      scale: {x: 3429.3723, y: 3429.3723, z: 3429.3723}
+    - name: Area.001
+      parentName: uploads_files_3062672_space+ship(Clone)
+      position: {x: -0.76257414, y: 61.392563, z: -16.490416}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 2867.0398, y: 2867.0398, z: 2867.0398}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
